@@ -20,4 +20,4 @@ logging:
 
 govCompaniesHouse:
   endpoint: https://api.company-information.service.gov.uk/search/companies?q={crn}
-  authUserName: dummy-auth-user
+  authUserName:	0920d3fa-08ae-4085-b040-24a1bd38731e
